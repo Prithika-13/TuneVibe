@@ -17,6 +17,7 @@ Traditional music recommenders often miss the mark by ignoring the context in wh
 - 📊 *Real-Time Trends*
 
 By combining these dynamic inputs with machine learning techniques, TuneVibe delivers more **relevant**, **timely**, and **personalized** music recommendations.
+TuneVibe uses Flask to seamlessly combine the frontend and backend into a unified web application. Flask serves the frontend templates and handles backend logic, making the app lightweight and easy to maintain.
 
 ---
 
@@ -35,7 +36,7 @@ By combining these dynamic inputs with machine learning techniques, TuneVibe del
   Song previews, ratings, and preference inputs to refine recommendations.
 
 - 📱 **Clean & Responsive UI**  
-  Designed for a smooth and intuitive user experience.
+  Designed for a smooth and intuitive user experience by playing a 30-second preview of each song, allowing users to quickly sample tracks before making a choice.
 
 ---
 
