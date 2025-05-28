@@ -97,7 +97,8 @@ python app.py
 ```
 ---
 ## 📸 Output
- ![login](image_url)
- ![signup](image_url)
- ![home](image_url)
- ![results](image_url)
+ <img src="https://github.com/Prithika-13/TuneVibe/blob/8df50de4b926e035686c3af98348ebd4e1c92c12/login.png" alt="Loginpage" width="500"/>
+<img src="https://github.com/Prithika-13/TuneVibe/blob/8df50de4b926e035686c3af98348ebd4e1c92c12/Signup.png" alt="Signuppage" width="500"/>
+<img src="https://github.com/Prithika-13/TuneVibe/blob/8df50de4b926e035686c3af98348ebd4e1c92c12/home.jpg" alt="Homepage" width="500"/>
+<img src="https://github.com/Prithika-13/TuneVibe/blob/8df50de4b926e035686c3af98348ebd4e1c92c12/result.jpg" alt="Resulepage" width="500"/>
+<img src="https://github.com/Prithika-13/TuneVibe/blob/8df50de4b926e035686c3af98348ebd4e1c92c12/result2.jpg" alt="Result2page" width="500"/>
